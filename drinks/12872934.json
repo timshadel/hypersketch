@@ -1,0 +1,27 @@
+{
+  "href": "/drinks/128472934",
+  "timestamp": "2012-10-24T17:36:53Z",
+  "volume": {
+    "measurement": 500.0,
+    "unit": "mL",
+    "text": "500 mL"
+  },
+  "loc": {
+    "lat": 44.563,
+    "lng": -115.864,
+    "place": { "href": "https://graph.facebook.com/1735482679", "name": "Riverside, CA" },
+  },
+  "glass": {
+    "href": "/glasses/18362926",
+    "pic": { "src": "/images/ac452bfa86c53d8864.png", "type": "image/png" },
+    "volume": {
+      "measurement": 500.0,
+      "unit": "mL",
+      "text": "500 mL"
+    }
+  },
+  "fraction": {
+    "number": 1.0,
+    "text": "Full glass"
+  }
+}

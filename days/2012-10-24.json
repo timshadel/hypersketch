@@ -1,0 +1,15 @@
+{
+  "href": "/days/2012-10-24",
+  "day": "2012-10-24",
+  "goal": {
+    "measurement": 76.0,
+    "unit": "oz"
+  },
+  "total": {
+    "measurement": 37.3,
+    "unit": "oz"
+  }
+  "drinks": {
+    "src": "/days/2012-10-24/drinks"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "href": "/ui/day/2012-10-24"
+  "head": {
+    "prev": { "href": "/ui/day/2012-10-23" },
+    "view": { "src": "/ui/day.ios" }
+  },
+  "body": {
+    "src": "/days/2012-10-24"
+  },
+  "footer": {
+    "graphs": { "href": "/ui/graphs" },
+    "drink": { "href": "#record" },
+    "settings": { "href": "/ui/settings" }
+  }
+}
