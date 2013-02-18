@@ -1,0 +1,13 @@
+{
+  "href": "/ui",
+  "head": {
+    "view": { "src": "/ui/root.ios" }
+  },
+  "body": {
+    "main": { "src": "/ui/day/2012-10-24" },
+    "backing": { "src": "/ui/nav" }
+  },
+  "footer": {
+    "toast": { "src": "/ui/toaster" }
+  }
+}

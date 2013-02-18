@@ -9,7 +9,7 @@
   },
   "footer": {
     "graphs": { "href": "/ui/graphs" },
-    "drink": { "href": "#record" },
+    "drink": { "href": "/ui/day/2012-10-24/drinks/new" },
     "settings": { "href": "/ui/settings" }
   }
 }

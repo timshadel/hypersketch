@@ -1,0 +1,21 @@
+{
+  "href": "/ui/nav"
+  "head": {
+    "view": { "src": "/ui/nav.ios" }
+  },
+  "body": {
+    "graphs": {
+      "href": "/ui/graphs",
+      "title": "Graphs",
+      "image": { "src": "/ui/images/graphs.png", "type": "image/png" }
+    },
+    "settings": {
+      "href": "/ui/settings"
+      "title": "Settings"
+      "image": { "src": "/ui/images/settings.png", "type": "image/png" }
+    }
+  },
+  "footer": {
+    "logo": { "src": "/ui/images/settings_logo.png", "type": "image/png" }
+  }
+}
