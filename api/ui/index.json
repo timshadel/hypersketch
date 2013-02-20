@@ -1,5 +1,5 @@
 {
-  "href": "/ui",
+  "href": "/ui/",
   "head": {
     "view": { "src": "/ui/root.ios" }
   },
